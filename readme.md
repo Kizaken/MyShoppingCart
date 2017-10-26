@@ -6,11 +6,11 @@
 ![alt text][img6]Cart
 
 [img1]:https://github.com/Kizaken/MyShoppingCart/blob/master/Shopping%20cart%20ss/1.PNG
-[img1]:https://github.com/Kizaken/MyShoppingCart/blob/master/Shopping%20cart%20ss/2.PNG
-[img1]:https://github.com/Kizaken/MyShoppingCart/blob/master/Shopping%20cart%20ss/3.PNG
-[img1]:https://github.com/Kizaken/MyShoppingCart/blob/master/Shopping%20cart%20ss/4.PNG
-[img1]:https://github.com/Kizaken/MyShoppingCart/blob/master/Shopping%20cart%20ss/5.PNG
-[img1]:https://github.com/Kizaken/MyShoppingCart/blob/master/Shopping%20cart%20ss/6.PNG
+[img2]:https://github.com/Kizaken/MyShoppingCart/blob/master/Shopping%20cart%20ss/2.PNG
+[img3]:https://github.com/Kizaken/MyShoppingCart/blob/master/Shopping%20cart%20ss/3.PNG
+[img4]:https://github.com/Kizaken/MyShoppingCart/blob/master/Shopping%20cart%20ss/4.PNG
+[img5]:https://github.com/Kizaken/MyShoppingCart/blob/master/Shopping%20cart%20ss/5.PNG
+[img6]:https://github.com/Kizaken/MyShoppingCart/blob/master/Shopping%20cart%20ss/6.PNG
 
 p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
