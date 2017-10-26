@@ -1,4 +1,7 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+[img1]:https://github.com/Kizaken/MyShoppingCart/blob/master/Shopping%20cart%20ss/1.PNG
+[img1]:https://github.com/Kizaken/MyShoppingCart/blob/master/Shopping%20cart%20ss/2.PNG
+
+p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
